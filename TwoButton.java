@@ -1,3 +1,5 @@
+// Problem Description URL: http://codeforces.com/problemset/problem/520/B
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
